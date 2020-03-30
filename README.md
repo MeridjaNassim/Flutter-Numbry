@@ -1,6 +1,6 @@
 # Test Driven Development and Clean Architecture project
 
-Flutter App that uses NumbersApi to display number trivias .
+Flutter App that uses [NumbersApi](http://numbersapi.com/) to display number trivias .
 
 ## Built using
 
